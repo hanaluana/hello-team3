@@ -85,6 +85,10 @@ p {
 
 p {
   margin-bottom: 0px;
+  overflow:hidden;
+}
+p img{
+  width:100%;
 }
 
 .v-card--reveal {
