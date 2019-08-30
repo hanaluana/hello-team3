@@ -87,8 +87,17 @@ p {
   margin-bottom: 0px;
   overflow:hidden;
 }
+
 p img{
   width:100%;
+}
+
+.v-card__text .color-666{
+  background: #181818;
+  color: #fff;
+  padding: 2%;
+  border-radius: 3px;
+  font-size: 14px!important;
 }
 
 .v-card--reveal {
